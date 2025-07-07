@@ -1,6 +1,6 @@
 # 🤖 Codelessly AI Agents Roadmap
 
-*The Future of Automatted Development is Coming Soon*
+*The Future of Automated Development is Coming Soon*
 
 ## Overview
 
